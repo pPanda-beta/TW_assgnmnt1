@@ -28,7 +28,10 @@ public class triangle{
             System.out.print("\n");
         }
     }
-
+    
+    
+    
+    
 
     public static void main(String[] args){
         System.out.println("Pattern : ");
@@ -40,4 +43,6 @@ public class triangle{
         System.out.println("Pattern : ");
         rtriag(3);
     }
+     
+
 }
